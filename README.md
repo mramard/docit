@@ -1,7 +1,7 @@
 ---
 description: >-
-  Cette documentation technique à pour but de centraliser et optimiser nos
-  process.
+  Retrouvez ici des informations utiles qui vous aideront dans la limite du
+  possible à vous sortir de situations informatiques contraignantes.
 cover: https://www.transports-hautier.fr/wp-content/uploads/2020/08/camions-1.jpg
 coverY: 154
 layout:
@@ -22,4 +22,3 @@ layout:
 
 # 🖱️ Documentation IT
 
-Vue sédentaire ici : [lien](https://groupe-hautier.gitbook.io/docit-sedentaire)
