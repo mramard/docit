@@ -1,7 +1,7 @@
 ---
 description: >-
-  Retrouvez ici des informations utiles qui vous aideront dans la limite du
-  possible à vous sortir de situations informatiques contraignantes.
+  Retrouvez ici des solutions et des conseils pour faire face à vos incidents
+  informatiques.
 cover: https://www.transports-hautier.fr/wp-content/uploads/2020/08/camions-1.jpg
 coverY: 154
 layout:
