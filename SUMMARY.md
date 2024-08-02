@@ -1,7 +1,10 @@
 # Table of contents
 
 * [🖱️ Documentation IT](README.md)
-* [Page 6](page-6.md)
+
+## 😎 Connexion à distance
+
+* [Connexion VPN](connexion-a-distance/connexion-vpn.md)
 
 ## 🍉 Office 365
 
@@ -52,7 +55,3 @@
 * [FleetXPS](app-metier/fleetxps.md)
 * [Open](app-metier/open.md)
 * [Solid](app-metier/solid.md)
-
-## 😎 Connexion à distance
-
-* [Connexion VPN](connexion-a-distance/connexion-vpn.md)
