@@ -43,10 +43,10 @@ layout:
 
 
 
-* [x] Une alerte de sécurité apparait, cliquez sur Oui (Attention cette fenêtre peut apparaitre en mode Réduit, vérifiez dans la barre en bas)
+* [x] Une alerte de sécurité apparait, cliquez sur Oui (Attention cette fenêtre peut apparaitre en mode Réduit, vérifiez dans la barre de tâches en bas)
 
 
 
 <figure><img src="https://i.imgur.com/hKW1Jh0.png" alt="" width="375"><figcaption></figcaption></figure>
 
-*
+* [ ] **Vous êtes désormais connecté à notre réseau depuis l'extérieur ! 🥳🥳**
