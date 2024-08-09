@@ -2,8 +2,7 @@
 description: >-
   Ce document a pour but d’expliquer le fonctionnement de la solution de
   téléphonie 3CX.
-cover: >-
-  https://images.unsplash.com/photo-1498230870289-7561110a6e69?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxJUCUyMHBob25lfGVufDB8fHx8MTcyMzIxMTQ0Mnww&ixlib=rb-4.0.3&q=85
+cover: https://www.auranext.com/wp-content/uploads/2024/01/solution_auracom_3cx.png
 coverY: 0
 layout:
   cover:
