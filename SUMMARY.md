@@ -2,7 +2,7 @@
 
 * [🖱️ Documentation IT](README.md)
 * [Kit du nouvel arrivant](kit-du-nouvel-arrivant.md)
-* [Contact 🧑‍💻](contact.md)
+* [Contacter le support🧑‍💻](contact.md)
 
 ## 😎 Connexion à distance
 
