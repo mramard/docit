@@ -35,6 +35,8 @@ Lorsque vous envoyez un mail à [support.informatique@groupe-hautier.fr](mailto:
 \
 Pour gérer au mieux les urgences, nous vous remercions de ne pas appeler si le problème n’est pas urgent. Si vous êtes bloqués, envoyez un mail (si c’est techniquement possible) et appelez-nous en parallèle pour nous alerter de l’urgence.
 
+
+
 ### VOS IDENTIFIANTS
 
 #### Connexion PC / Session RDS
@@ -83,11 +85,15 @@ En vous connectant sur https://www.office.com/ avec vos identifiants, vous accé
 
 Toutes ces applications sont également disponibles pour smartphones Android et Apple.
 
+
+
 ### MESSAGERIE
 
 Les mails sont hébergés chez Microsoft. Vous pouvez les consulter sur votre application Outlook (dans la session RDS ou dans la session locale).
 
 Vous pouvez également les consulter sur https://outlook.office.com (depuis n’importe quel ordinateur connecté à internet).
+
+
 
 ### TEAMS
 
@@ -112,11 +118,15 @@ Vos identifiants pour ces applications vous seront communiqués individuellement
 
 Les raccourcis dont vous avez besoin doivent être sur le bureau. Si ce n’est pas le cas, merci de le signaler à [support.informatique@groupe-hautier.fr](mailto:support.informatique@groupe-hautier.fr)
 
+
+
 ### TÉLÉTRAVAIL
 
 Pour faire du télétravail, vous devez avoir un équipement fourni par l’entreprise (généralement un PC portable)
 
 Un guide utilisateur spécifique pour la connexion à distance est disponible [ICI](https://groupe-hautier.gitbook.io/docit-sedentaire/connexion-a-distance/connexion-vpn)
+
+
 
 ### TÉLÉPHONIE FIXE
 
@@ -125,5 +135,5 @@ La plupart des sites du groupe sont équipés de la solution 3CX.
 Vous pouvez consulter le mode d’emploi : [ICI](kit-du-nouvel-arrivant.md#teletravail)
 
 \
-**MERCI POUR VOTRE LECTURE :)**
--------------------------------
+<mark style="color:purple;">**MERCI POUR VOTRE LECTURE :)**</mark>
+------------------------------------------------------------------
