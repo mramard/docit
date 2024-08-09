@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Kit du nouvel arrivant
+# 😎 Kit du nouvel arrivant
 
 Ce document a pour objectif de vous donner les premières informations dont vous aurez besoin pour travailler avec les outils informatiques dans l'entreprise.&#x20;
 

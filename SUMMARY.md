@@ -1,8 +1,8 @@
 # Table of contents
 
 * [🖱️ Documentation IT](README.md)
-* [Kit du nouvel arrivant](kit-du-nouvel-arrivant.md)
-* [Contacter le support](contact.md)
+* [😎 Kit du nouvel arrivant](kit-du-nouvel-arrivant.md)
+* [🚀 Contacter le support](contact.md)
 
 ## Formulaires
 
