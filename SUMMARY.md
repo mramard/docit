@@ -33,7 +33,7 @@
 ## APP METIER
 
 * [AKANEA](app-metier/akanea/README.md)
-  * [Création ville](app-metier/akanea/creation-ville.md)
+  * [Raccourcis clavier](app-metier/akanea/creation-ville.md)
   * [Suivi des segments](app-metier/akanea/suivi-des-segments.md)
   * [Suivi des ordres](app-metier/akanea/suivi-des-ordres.md)
   * [Création salarié](app-metier/akanea/creation-salarie.md)
