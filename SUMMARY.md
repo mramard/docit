@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🖱️ Documentation IT](README.md)
+* [Contact 🧑‍💻](contact.md)
 
 ## 😎 Connexion à distance
 
@@ -19,25 +20,6 @@
   * [Page 4](office-365/word/page-4.md)
   * [Page 2](office-365/word/page-2.md)
 * [Teams](office-365/teams.md)
-
-## 👽 AKANEA
-
-* [Création utilisateur](akanea/creation-utilisateur.md)
-* [Création Salarié](akanea/creation-salarie.md)
-* [Suivi des ordres](akanea/suivi-des-ordres.md)
-* [Suivi des segments](akanea/suivi-des-segments.md)
-* [Suivi des missions](akanea/suivi-des-missions.md)
-* [Suivi des voyages](akanea/suivi-des-voyages.md)
-* [Création de ville](akanea/creation-de-ville.md)
-
-## 📲 Téléphonie
-
-* [Gestion des tél.](telephonie/gestion-des-tel..md)
-* [Gestion des apps](telephonie/gestion-des-apps.md)
-* [Gestion des policies](telephonie/gestion-des-policies.md)
-* [Réinitialisation](telephonie/reinitialisation.md)
-* [Enrollement](telephonie/enrollement.md)
-* [Modèles](telephonie/modeles.md)
 
 ## 🍪 BUREAUTIQUE
 
