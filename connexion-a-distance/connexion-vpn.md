@@ -3,8 +3,8 @@ description: >-
   Il est parfois nécessaire de se connecter à distance (télétravail,
   déplacement). Ce document vous explique comment vous connecter.
 cover: >-
-  https://images.unsplash.com/photo-1465447142348-e9952c393450?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxyb2FkfGVufDB8fHx8MTcyMzE5MDY0MHww&ixlib=rb-4.0.3&q=85
-coverY: 0
+  https://images.unsplash.com/photo-1712245833905-5057a4245271?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxjb21wdXRpbmd8ZW58MHx8fHwxNzIzMTkwOTYwfDA&ixlib=rb-4.0.3&q=85
+coverY: 29
 layout:
   cover:
     visible: true
