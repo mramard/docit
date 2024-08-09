@@ -21,10 +21,6 @@
   * [Page 2](office-365/word/page-2.md)
 * [Teams](office-365/teams.md)
 
-## 🍪 BUREAUTIQUE
-
-* [Page 3](bureautique/page-3.md)
-
 ## 😎 APP METIER
 
 * [AKANEA](app-metier/akanea/README.md)
@@ -37,3 +33,7 @@
 * [FleetXPS](app-metier/fleetxps.md)
 * [Open](app-metier/open.md)
 * [Solid](app-metier/solid.md)
+
+## 🍪 BUREAUTIQUE
+
+* [Page 3](bureautique/page-3.md)
