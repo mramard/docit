@@ -50,7 +50,7 @@ Pour gérer au mieux les urgences, nous vous remercions de ne pas appeler si le 
 
 
 
-### SECURITE
+### SÉCURITÉ
 
 Vous êtes responsable de ce qui est fait sous votre session. Votre mot de passe ne doit pas être divulgué.&#x20;
 
@@ -104,7 +104,7 @@ Contactez-nous en ouvrant un ticket -> [support.informatique@groupe-hautier.fr](
 
 
 
-### APPLICATIONS METIERS
+### APPLICATIONS MÉTIERS
 
 Les applications métiers sont celles qui sont spécifiques à une activité (TMS pour le Transport, WMS pour la logistique, logiciel de compta …)
 
@@ -112,13 +112,13 @@ Vos identifiants pour ces applications vous seront communiqués individuellement
 
 Les raccourcis dont vous avez besoin doivent être sur le bureau. Si ce n’est pas le cas, merci de le signaler à [support.informatique@groupe-hautier.fr](mailto:support.informatique@groupe-hautier.fr)
 
-### TELETRAVAIL
+### TÉLÉTRAVAIL
 
 Pour faire du télétravail, vous devez avoir un équipement fourni par l’entreprise (généralement un PC portable)
 
 Un guide utilisateur spécifique pour la connexion à distance est disponible [ICI](https://groupe-hautier.gitbook.io/docit-sedentaire/connexion-a-distance/connexion-vpn)
 
-### TELEPHONIE FIXE
+### TÉLÉPHONIE FIXE
 
 La plupart des sites du groupe sont équipés de la solution 3CX.
 
