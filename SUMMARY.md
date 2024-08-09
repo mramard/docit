@@ -1,8 +1,8 @@
 # Table of contents
 
 * [🖱️ Documentation IT](README.md)
-* [😎 Kit du nouvel arrivant](kit-du-nouvel-arrivant.md)
-* [🚀 Contacter le support](contact.md)
+* [Kit du nouvel arrivant](kit-du-nouvel-arrivant.md)
+* [Contacter le support](contact.md)
 
 ## Formulaires
 
@@ -15,6 +15,19 @@
 ## Connexion à distance
 
 * [Connexion VPN](connexion-a-distance/connexion-vpn.md)
+
+## APP METIER
+
+* [Akanea](app-metier/akanea/README.md)
+  * [Raccourcis clavier](app-metier/akanea/creation-ville.md)
+  * [Suivi des segments](app-metier/akanea/suivi-des-segments.md)
+  * [Suivi des ordres](app-metier/akanea/suivi-des-ordres.md)
+  * [Création salarié](app-metier/akanea/creation-salarie.md)
+  * [Création utilisateur](app-metier/akanea/creation-utilisateur.md)
+* [Web/TruckAccess](app-metier/web-truckaccess.md)
+* [FleetXPS](app-metier/fleetxps.md)
+* [Open](app-metier/open.md)
+* [Solid](app-metier/solid.md)
 
 ## Office 365
 
@@ -29,19 +42,6 @@
   * [Page 4](office-365/word/page-4.md)
   * [Page 2](office-365/word/page-2.md)
 * [Teams](office-365/teams.md)
-
-## APP METIER
-
-* [AKANEA](app-metier/akanea/README.md)
-  * [Raccourcis clavier](app-metier/akanea/creation-ville.md)
-  * [Suivi des segments](app-metier/akanea/suivi-des-segments.md)
-  * [Suivi des ordres](app-metier/akanea/suivi-des-ordres.md)
-  * [Création salarié](app-metier/akanea/creation-salarie.md)
-  * [Création utilisateur](app-metier/akanea/creation-utilisateur.md)
-* [Web/TruckAccess](app-metier/web-truckaccess.md)
-* [FleetXPS](app-metier/fleetxps.md)
-* [Open](app-metier/open.md)
-* [Solid](app-metier/solid.md)
 
 ## Bureautique
 

@@ -10,6 +10,10 @@ coverY: 0
 
 # Liste des formulaires
 
+Vous serez redirigés vers une page sur laquelle vous devrez vous identifier avec votre nom d'utilisateur p.nom et votre mot de passe actuel.
+
+
+
 Demande de création compte sédentaire [☝️](http://glpi.phare.lan/plugins/formcreator/front/formdisplay.php?id=1)
 
 Demande de suppression compte sédentaire [☝️](http://glpi.phare.lan/plugins/formcreator/front/formdisplay.php?id=2)
@@ -17,3 +21,4 @@ Demande de suppression compte sédentaire [☝️](http://glpi.phare.lan/plugins
 Demande de création compte conducteur [☝️](http://glpi.phare.lan/plugins/formcreator/front/formdisplay.php?id=3)
 
 Demande de suppression compte conducteur [☝️](http://glpi.phare.lan/plugins/formcreator/front/formdisplay.php?id=4)
+

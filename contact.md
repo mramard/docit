@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🚀 Contacter le support
+# Contacter le support
 
 Pour nous contacter au support, **2 solutions** s'offrent à vous :&#x20;
 
