@@ -2,11 +2,25 @@
 description: BIENVENUE DANS LE GROUPE HAUTIER
 cover: .gitbook/assets/Capture d'écran 2024-08-09 100325 (1).png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Kit du nouvel arrivant
 
-Ce document a pour objectif de vous donner les premières informations dont vous aurez besoin pour travailler avec les outils informatiques dans le groupe Hautier
+Ce document a pour objectif de vous donner les premières informations dont vous aurez besoin pour travailler avec les outils informatiques dans l'entreprise.&#x20;
 
 
 
