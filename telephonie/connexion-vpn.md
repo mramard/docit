@@ -3,7 +3,7 @@ description: >-
   Ce document a pour but d’expliquer le fonctionnement de la solution de
   téléphonie 3CX.
 cover: >-
-  https://images.unsplash.com/photo-1485770958101-9dd7e4ea6d93?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxQSE9ORXxlbnwwfHx8fDE3MjMxOTY1MjN8MA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1498230870289-7561110a6e69?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxJUCUyMHBob25lfGVufDB8fHx8MTcyMzIxMTQ0Mnww&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
