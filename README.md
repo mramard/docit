@@ -20,7 +20,7 @@ layout:
 
 # 🖱️ Documentation IT
 
-Bienvenue dans la documentation IT du groupe. 😼\
+Bienvenue dans la documentation IT du groupe. 🚛\
 \
 Ce guide a été conçu pour vous accompagner dans la résolution de petites problématiques informatiques que vous pourriez rencontrer au quotidien. Que vous ayez besoin d'une procédure simple ou d'une réponse rapide à une question fréquente, cette documentation vous aidera à gagner en autonomie et en efficacité. \
 \
