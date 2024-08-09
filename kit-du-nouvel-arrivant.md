@@ -124,6 +124,6 @@ La plupart des sites du groupe sont équipés de la solution 3CX.
 
 Vous pouvez consulter le mode d’emploi : [ICI](kit-du-nouvel-arrivant.md#teletravail)
 
-
-
-<figure><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzl2YW8xdHRzYTE1cjB4azkyb2NlN2QzNjc1cDB0YjBzdjB4aXd0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/6g2piPRglJEpElmQXX/200.webp" alt=""><figcaption></figcaption></figure>
+\
+**MERCI POUR VOTRE LECTURE :)**
+-------------------------------
