@@ -16,7 +16,9 @@ coverY: 0
 | F5           | Désélectionner toutes les lignes                                                  |
 | F6           | Exécuter la recherche                                                             |
 | F7           | Afficher / Masquer le bandeau de recherche simplifié                              |
+| F11          | Mode plein écran                                                                  |
 | F12          | Dupliquer spécial (dans la saisie d'un ordre)                                     |
+|              |                                                                                   |
 | CTRL + 1     | Zoom + (grossir)                                                                  |
 | CTRL + 2     | Zoom - (diminuer)                                                                 |
 | CTRL + A     | Rappel des abonnements depuis la saisie d'un OT après la saisie d'un affrètement. |
@@ -29,6 +31,6 @@ coverY: 0
 | CTRL + T     | Relancer le calcul de la tarification                                             |
 | CTRL + Y     | Copier le code client en code expéditeur / code destinataire                      |
 | INSER        | Insérer une ligne                                                                 |
-| CTRL + SUPPR | Suprimmer une ligne                                                               |
+| CTRL + SUPPR | Supprimer une ligne                                                               |
 | CTRL + ENTER | Saut de ligne dans une zone memo                                                  |
 
