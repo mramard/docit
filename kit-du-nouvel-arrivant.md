@@ -135,5 +135,5 @@ La plupart des sites du groupe sont équipés de la solution 3CX.
 Vous pouvez consulter le mode d’emploi : [ICI](kit-du-nouvel-arrivant.md#teletravail)
 
 \
-<mark style="color:purple;">**MERCI POUR VOTRE LECTURE :)**</mark>
-------------------------------------------------------------------
+**MERCI POUR VOTRE LECTURE.**
+-----------------------------
