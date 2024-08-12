@@ -73,7 +73,7 @@ Vous ne pouvez pas installer d’application ou d’imprimante dans votre sessio
 
 **IMPORTANT** : pour fermer correctement la session, utilisez ce bouton présent sur votre bureau et dans votre menu démarrer  &#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Fermeture session</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Fermeture session</p></figcaption></figure>
 
 
 
@@ -103,7 +103,7 @@ L’application Teams n’est **pas disponible sur la session RDS mais uniquemen
 
 De ce fait, la visioconférence n’est pas utilisable dans la session RDS, il faudra revenir sur la session locale pour l’utiliser. Pour revenir sur la session locale, il faut réduire la fenêtre de la session RDS comme suit :&#x20;
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Réduire session RDS</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Réduire session RDS</p></figcaption></figure>
 
 Si vous avez besoin de modifier des fichiers hébergés sur Teams, nous pouvons vous aider à créer un raccourci dans votre explorateur. \
 Contactez-nous en ouvrant un ticket -> [support.informatique@groupe-hautier.fr](mailto:support.informatique@groupe-hautier.fr)
