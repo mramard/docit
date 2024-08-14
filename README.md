@@ -1,4 +1,7 @@
-[Click here to access the protected content]([[https://yourdomain.com](https://github.com/mramard/docit/edit/main/protected.html)]
+
+[Click here to access the protected content](https://github.com/mramard/docit/edit/main/protect.html)
+
+
 
 ---
 description: v1
