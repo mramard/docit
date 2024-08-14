@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Protected Page</title>
+</head>
+<body>
+    <script>
+        // Prompt the user for a password
+        var password = prompt("Please enter the password to view this page:");
+
+        // Define the correct password
+        var correctPassword = "yourPasswordHere";
+
+        // Check if the entered password matches the correct password
+        if (password !== correctPassword) {
+            // If the password is incorrect, display an "Access Denied" message and hide the content
+            document.body.innerHTML = "<h1>Access Denied</h1><p>You do not have permission to view this page.</p>";
+        } else {
+            // If the password is correct, display the protected content
+            document.body.innerHTML = "<h1>Welcome to the Protected Page</h1><p>This content is protected.</p>";
+        }
+    </script>
+</body>
+</html>
