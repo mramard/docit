@@ -1,9 +1,5 @@
 
-# 🖱️ Documentation IT
-
 [Click here to access the protected content](https://github.com/mramard/docit/edit/main/Protect.html)
-
-***
 
 ## 🖱️ Documentation IT
 
