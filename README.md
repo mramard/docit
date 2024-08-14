@@ -1,9 +1,4 @@
 
-[Click here to access the protected content](http://conducteur.brelet-transport.fr/itineraires/Protect.html)
-
-
-## 🖱️ Documentation IT
-
 Bienvenue dans la documentation IT du groupe.
 
 Ce guide a été conçu pour vous accompagner dans la résolution des petites problématiques informatiques que vous pourriez rencontrer au quotidien.
