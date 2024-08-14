@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1520697830682-bbb6e85e2b0b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxzZWN1cml0eXxlbnwwfHx8fDE3MjM2MjQzNjR8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # Vigilance mail&#x20;
 
 
